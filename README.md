@@ -43,7 +43,7 @@ Perfect for real estate visualization, interior decorators, home remodeling insp
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/narender-rk10/Gen-AI-Home-Interior-Designer.git
+git clone https://github.com/Shahzan-Mehdi/Gen-AI-Home-Interior-Designer.git
 cd Gen-AI-Home-Interior-Designer
 ```
 
@@ -112,18 +112,9 @@ Pull requests are welcome! If you have suggestions for new design types, prompt 
 
 ---
 
-## 📄 LICENSE
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
   <img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
 </a>
 <br />
-This work is licensed under a 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
-  Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
-</a>.
-
----
 
 ## 💡 Inspiration
 
@@ -133,5 +124,5 @@ This project showcases how **multimodal AI** can revolutionize interior design �
 
 ## 🙋‍♂️ Author
 
-**Narender Keswani**  
-🔗 [GitHub](https://github.com/narender-rk10) • 💼 [LinkedIn](https://linkedin.com/in/narender-keswani) • 🌐 [Website](https://www.narenderkeswani.com)
+**Shahzan Mehdi**  
+🔗 [GitHub](https://github.com/Shahzan-Mehdi) 
