@@ -112,9 +112,6 @@ Pull requests are welcome! If you have suggestions for new design types, prompt 
 
 ---
 
-  <img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
-</a>
-<br />
 
 ## 💡 Inspiration
 
